@@ -1,0 +1,36 @@
+{
+  "Categorias": [
+    {
+      "id": 1,
+      "titulo": "Gameplays",
+      "descricao": "Gameplay de jogos",
+      "cor": "#E83368"
+    },
+    {
+      "id": 2,
+      "titulo": "E-Sports",
+      "descricao": "Campeonatos de Jogos Eletrônicos",
+      "cor": "#E83368"
+    },
+    {
+      "titulo": "Terror",
+      "descricao": "Filmes com temáticas sensíveis",
+      "cor": "#32111b",
+      "id": 3
+    },
+    {
+      "titulo": "Comedia",
+      "descricao": "Filmes de fim de noite, para rir com toda a família",
+      "cor": "#3035d5",
+      "id": 4
+    }
+  ],
+  "Videos": [
+    {
+      "id": 1,
+      "titulo": "qualeurcoisa",
+      "url": "asdasdasd",
+      "categoriaId": 1
+    }
+  ]
+}
